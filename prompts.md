@@ -149,3 +149,23 @@ part2\chapter20
 and each sequentially numbered folder through and including:
 
 part2\chapter30
+
+# Now we're cooking
+
+Repeat exactly those steps in the following 11 folders:
+
+part3\chapter31
+
+and each sequentially numbered folder through and including:
+
+part2\chapter38
+
+# Last chapters!
+
+Repeat exactly those steps in the following 11 folders:
+
+part3\chapter39
+
+and each sequentially numbered folder through and including:
+
+part3\chapter45
