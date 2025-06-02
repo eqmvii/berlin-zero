@@ -114,3 +114,10 @@ Model: GPT-4.1 promo
 
 # Prompt 15
 
+SWE-1-lite
+
+Open and read only the file part3\part3_summary.md - do not open or look at other files in the project.
+
+After reviewing that file, produce one chapter_summary.md file in each of the 15 folders (chapter31 - chapter45) found in part3/.
+
+Each of those 15 chapter_summary.md files should contain a short summary of the chapter of the novel - we will expand on them later. 
