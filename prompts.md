@@ -102,3 +102,9 @@ Model: GPT-4.1 promo
 
 # Prompt 13
 
+Write chapter 4
+
+Model: GPT-4.1 promo
+
+# Prompt 14
+
