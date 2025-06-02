@@ -2,6 +2,8 @@
 """
 Word count utility for the novel project.
 Counts words specifically in chapter_content.md files and provides statistics.
+
+docker-compose up will run this and save the result to markdown
 """
 
 import os
