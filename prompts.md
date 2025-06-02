@@ -47,3 +47,9 @@ Create a Dockerfile and docker-compose for this project. The dockerfile will be 
 This needs to be containerized because I'm on a windows machine and don't want to install or run python. Instead, the dockerfile should have python3 installed, be able to see and run scripts in this repo (probably by volume mounts in the docker-compose), etc.
 
 Model: Cascade (SWE-1)
+
+## Prompt 9
+
+Update the script so that when run, it counts the words for each and every chapter_content.md files located in any folder in this repository - rather than word ocunting arbitrary inputs.
+
+Model: Cascade (SWE-1)
