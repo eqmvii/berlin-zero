@@ -38,10 +38,22 @@ Hazel grinned, nudging Pipkin. “Looks like you’re finally starting to believ
 
 Pipkin smiled, the knot in his chest loosening. “Maybe I am.”
 
-As the stars wheeled overhead, Pipkin felt a sense of peace settle over him. The road ahead would be hard, and the shadow of the Starfall still loomed on the horizon. But for the first time, he understood what it meant to be a knight—not just in battle, but in every moment of compassion and courage.
+The next morning, Pipkin woke early and wandered through the village. He helped a family of shrews rebuild their burrow, listened to a young squirrel recount the terror of the attack, and comforted a kit who had lost his favorite toy in the chaos. Each small act of service brought him closer to the villagers and to understanding himself.
 
-He closed his eyes, letting the warmth of the fire and the comfort of his friends fill him. Whatever challenges awaited, Pipkin knew he would face them with an open heart—and that, in the end, would be his greatest strength.
+Later, Pipkin joined Hazel and Sir Reginald at the edge of the forest. They walked together, discussing the meaning of courage and the burdens of leadership. Sir Reginald shared stories of his own doubts and failures, reminding Pipkin that even the bravest knights have moments of fear and sorrow.
 
----
+That afternoon, the villagers held a small ceremony to thank their defenders. Pipkin was presented with a simple token—a woven bracelet made of grass and wildflowers. The elder vole spoke: “Let this remind you that a knight’s heart is bound to the people he serves.”
+
+Pipkin wore the bracelet with pride, feeling the weight of responsibility and the warmth of community.
+
+As the sun set, Pipkin and Hazel sat by the river, watching the water flow past. Hazel spoke softly: “You’re different now, Pip. Stronger, but also kinder.”
+
+Pipkin nodded. “I think I finally understand what Sir Reginald meant. To be a knight is to care, even when it hurts.”
+
+Hazel smiled. “And you’ll never have to do it alone.”
+
+That night, Pipkin lay awake, the sounds of the village soothing his troubled mind. He thought of the journey ahead, the shadow of the Starfall, and the friends who would walk beside him. He knew there would be more battles, more pain, but also more moments of joy and connection.
 
 At dawn, Pipkin rose to find the village alive with hope. The scars of battle remained, but so did the bonds forged in the fire. As he prepared to continue his journey, Pipkin looked back at Willowbrook and realized that the true measure of a knight was not in victories won, but in the lives touched along the way.
+
+With Hazel and Sir Reginald at his side, Pipkin stepped forward into the unknown, his heart open and ready for whatever lay ahead.
