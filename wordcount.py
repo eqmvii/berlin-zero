@@ -66,8 +66,65 @@ def scan_for_chapter_content(directory='.'):
     
     return results, total_words, chapter_count, part_totals
 
+def generate_markdown_report(results, total_words, chapter_count, part_totals):
+    """Generate a markdown report of word count statistics."""
+    from datetime import datetime
+    
+    lines = []
+    
+    # Add title and timestamp
+    lines.append("# 📚 Novel Word Count Statistics")
+    lines.append(f"*Generated on {datetime.now().strftime('%Y-%m-%d at %H:%M:%S')}*")
+    lines.append("")
+    
+    # Add chapter details
+    lines.append("## Chapter Details")
+    lines.append("")
+    lines.append("| Chapter | Words | % of Novel |")
+    lines.append("| :------ | ----: | ---------: |")
+    
+    # Sort by part and chapter number
+    sorted_results = sorted(results.items())
+    
+    for chapter_path, count in sorted_results:
+        percentage = (count / total_words * 100) if total_words > 0 else 0
+        lines.append(f"| {chapter_path} | {count:,} | {percentage:.1f}% |")
+    
+    # Add part summaries
+    if part_totals:
+        lines.append("")
+        lines.append("## Part Summaries")
+        lines.append("")
+        lines.append("| Part | Words | % of Novel |")
+        lines.append("| :--- | ----: | ---------: |")
+        
+        for part_name, count in sorted(part_totals.items()):
+            percentage = (count / total_words * 100) if total_words > 0 else 0
+            lines.append(f"| {part_name} | {count:,} | {percentage:.1f}% |")
+    
+    # Add overall statistics
+    lines.append("")
+    lines.append("## Overall Statistics")
+    lines.append("")
+    lines.append(f"**Total Chapters:** {chapter_count}")
+    lines.append(f"**Total Word Count:** {total_words:,}")
+    avg_words = total_words/chapter_count if chapter_count else 0
+    lines.append(f"**Average Words Per Chapter:** {avg_words:.1f}")
+    lines.append(f"**Estimated Pages (250 words/page):** {total_words/250:.1f}")
+    
+    return "\n".join(lines)
+
 def print_results(results, total_words, chapter_count, part_totals):
-    """Print word count results in a formatted table."""
+    """Print word count results in a formatted table and write to markdown file."""
+    # Generate markdown content
+    markdown_content = generate_markdown_report(results, total_words, chapter_count, part_totals)
+    
+    # Write to word_count.md in root directory
+    output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'word_count.md')
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(markdown_content)
+    
+    # Also print to console
     print("\n📚 NOVEL CHAPTER WORD COUNT STATISTICS 📚")
     print("=" * 70)
     print(f"{'CHAPTER':<40} {'WORDS':>10} {'% OF NOVEL':>15}")
@@ -96,6 +153,8 @@ def print_results(results, total_words, chapter_count, part_totals):
     print(f"{'AVERAGE WORDS PER CHAPTER':<40} {(total_words/chapter_count if chapter_count else 0):>10,.1f}")
     print(f"{'ESTIMATED PAGES (250 words/page)':<40} {total_words/250:>10,.1f}")
     print("=" * 70)
+    print(f"\nResults have been saved to: {output_path}")
+
 
 def main():
     """Main function to run the word count utility."""

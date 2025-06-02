@@ -53,3 +53,13 @@ Model: Cascade (SWE-1)
 Update the script so that when run, it counts the words for each and every chapter_content.md files located in any folder in this repository - rather than word ocunting arbitrary inputs.
 
 Model: Cascade (SWE-1)
+
+### Eric Note
+
+That siad it was SWE-1, but it was actually claude 3.7 sonnet. It lies! 
+
+## Prompt 10
+
+Update the script so that it writes the output to a word_count.md markdown file in the root directory
+
+Model: Cascade (SWE-1)
