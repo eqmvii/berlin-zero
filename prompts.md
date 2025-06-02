@@ -60,6 +60,14 @@ That siad it was SWE-1, but it was actually claude 3.7 sonnet. It lies!
 
 ## Prompt 10
 
+Create part1/chapter2/chapter_content.md and write chapter 2. Use the chapter summary markdown file in that folder to guide you.
+
+It must be at least 1,100 words long. Make it exciting!
+
+Model: GPT-4.1 promo
+
+## Prompt 11
+
 Update the script so that it writes the output to a word_count.md markdown file in the root directory
 
 Model: Cascade (SWE-1)
