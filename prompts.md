@@ -29,3 +29,13 @@ Also update the chapter numbers - the chapters in part 2 should start at 16, and
 Update chapter folder numbers. Part 1 should be 1-15, part 2 should be 16-30, and part 3 should be 31-45
 
 Add this prompt to prompts.md as well
+
+## Prompt 6
+
+Please write summaries for each of the 3 parts and add them as a markdown file in the folder. Remember that the plot_outline.md has the overarching plot in it.
+
+Add this prompt to prompts.md
+
+## Prompt 7
+
+Write the part 3 summary and add this and the prior prompt to prompts.md
