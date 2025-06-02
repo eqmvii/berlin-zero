@@ -175,3 +175,9 @@ part3\chapter45
 Open only the file part2/chapter17 and no other files in this project
 
 It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
+
+# GPT did it then died in a fire 
+
+Open only the file part2\chapter17\chapter_content.md and no other files in this project
+
+It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
