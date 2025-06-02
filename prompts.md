@@ -180,4 +180,10 @@ It is a chapter in a novel, but it is short. Please expand it to be around 1,300
 
 Open only the file part2\chapter17\chapter_content.md and no other files in this project
 
+## Prompt 9 (Cascade swe-1)
+
+Open only the file part2\chapter19\chapter_content.md and no other files in this project
+
+It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
+
 It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.

@@ -1,43 +1,61 @@
 # Chapter 19: The Starfall's First Sign
 
-The night was unusually still as Pipkin lay in his bed, staring up at the ceiling. The moonlight filtered through the window, casting long shadows across the room. He couldn't shake the feeling that something was different tonight - the air felt charged with anticipation.
+The night was unusually still, as if the world itself was holding its breath. Pipkin lay in his narrow bed, staring up at the ceiling beams, tracing the familiar cracks with his eyes. The moonlight filtered through the window, painting silver ribbons across the floor and casting long, shifting shadows on the walls. The usual chorus of crickets was absent. Even the wind seemed to have forgotten how to stir the leaves outside. Pipkin couldn’t shake the feeling that something was different tonight—the air felt charged with anticipation, as though the Citadel itself was waiting for something to happen.
 
-Suddenly, a soft tapping at the window caught his attention. Pipkin sat up to see Whisperwind, the ancient owl who had once warned his father about dangers past. The owl's eyes glowed with an otherworldly light as he hooted softly.
+He rolled onto his side, trying to will himself to sleep, but rest would not come. Every sound—a distant creak, a muffled footstep in the hallway—set his heart racing. He thought of the combat test that morning, of Boulder’s surprised face, of the cheers that had followed his victory. But tonight, pride was replaced by unease. Pipkin’s thoughts drifted to the stories his father used to tell by the fire, tales of omens and ancient threats, of the sky itself turning strange.
 
-"Come," Whisperwind said, his voice a whisper on the wind. "There is something you must see."
+Suddenly, a soft tapping at the window jolted him upright. Pipkin’s ears perked, and he glanced over to see two glowing eyes peering in from the darkness. It was Whisperwind, the ancient owl who had once warned his father about dangers past. The owl’s feathers shimmered in the moonlight, and his eyes glowed with an otherworldly light as he hooted softly, beckoning Pipkin closer.
 
-Pipkin quickly dressed and followed the owl to the training grounds. As they reached the courtyard, he saw that several other trainees had also been summoned - including Grizelda and Thumper.
+“Come,” Whisperwind said, his voice a whisper on the wind. “There is something you must see.”
 
-"Look to the sky," Whisperwind instructed.
+Pipkin hesitated only a moment before slipping out of bed and dressing quickly, careful not to wake the others. He padded silently across the cool floor, heart thudding in his chest. The corridors were empty, the Citadel’s great stone walls echoing his footsteps as he crept toward the courtyard. Whisperwind led the way, gliding silently through the shadows, always just ahead.
 
-Pipkin raised his gaze and gasped. High above the Citadel's spires, strange lights danced across the night sky. They weren't like any stars he'd seen before - they moved with purpose, tracing patterns that seemed almost... intelligent.
+As they reached the training grounds, Pipkin saw that several other trainees had also been summoned—Grizelda, her fur ruffled from sleep; Thumper, rubbing his eyes and muttering under his breath; and a handful of others, all clustered together in confusion. The grass was damp with dew, and the night air was thick with expectation.
 
-"What are those?" Grizelda whispered, her voice filled with awe.
+“Look to the sky,” Whisperwind instructed, settling on a low branch above them.
 
-"They are the first signs," Whisperwind replied gravely. "Signs of what is to come."
+Pipkin raised his gaze and gasped. High above the Citadel’s spires, strange lights danced across the velvet darkness. They weren’t like any stars he’d seen before—these moved with purpose, weaving and swirling in intricate patterns that seemed almost… intelligent. Some glowed blue, others a fiery red, and still others flickered in colors Pipkin had no name for. The lights traced lines and circles, sometimes merging, sometimes splitting apart, painting messages in the sky that no one could read.
 
-The other trainees began to murmur among themselves, their ears twitching with unease. Pipkin felt a chill run down his spine as he watched the lights. They seemed to be communicating with each other, forming patterns that shifted and changed.
+“What are those?” Grizelda whispered, her voice filled with awe and a hint of fear.
 
-"What do they mean?" Thumper asked, his voice unusually subdued.
+“They are the first signs,” Whisperwind replied gravely, his eyes never leaving the sky. “Signs of what is to come.”
 
-"They are heralds," Whisperwind said. "Heralds of the Starfall."
+The other trainees began to murmur among themselves, their ears twitching with unease. Pipkin felt a chill run down his spine as he watched the lights. They seemed to be communicating, forming patterns that shifted and changed, as if the sky itself was alive and speaking in a language older than words.
 
-The words hung in the air like a warning. Pipkin remembered the stories his father had told him about ancient threats from beyond the stars. Could it be that those legends were about to become reality?
+“What do they mean?” Thumper asked, his voice unusually subdued. “Is it magic?”
 
-Over the next few nights, Pipkin began to notice more patterns in the strange lights. They appeared at regular intervals, tracing paths that seemed to converge on certain points in the sky. He started keeping notes, trying to understand their movements.
+“They are heralds,” Whisperwind said, his feathers ruffling. “Heralds of the Starfall.”
 
-"What are you doing?" Grizelda asked one evening as she found Pipkin poring over his sketches.
+The words hung in the air like a warning bell. Pipkin remembered the stories his father had told him—of ancient threats from beyond the stars, of the Starfall that had once brought darkness to the land. Could it be that those legends were about to become reality?
 
-"I'm trying to understand the lights," Pipkin replied, showing her his drawings. "They move in patterns - patterns that seem too deliberate to be random."
+For a long time, the group stood in silence, watching the lights dance and shift. Some of the younger trainees clung to each other, wide-eyed. Even the bravest among them seemed small beneath the vast, mysterious sky.
 
-Grizelda studied the sketches, her eyes narrowing. "You might be right," she said slowly. "But what does it mean?"
+When the lights finally faded, one by one, the trainees drifted back to their beds, but sleep was slow to return. Pipkin lay awake, the images of the sky burned into his mind. He felt both afraid and strangely called, as if the lights had been meant for him.
 
-"I don't know," Pipkin admitted. "But I feel like we're supposed to understand something. Like these lights are trying to tell us something."
+Over the next few nights, Pipkin began to notice more patterns in the strange lights. They appeared at regular intervals, always after midnight, tracing paths that seemed to converge on certain points above the Citadel. Pipkin started keeping notes, sketching the shapes and lines he saw, trying to find meaning in the chaos. His notebook filled with drawings—spirals, intersecting lines, constellations that didn’t match any he’d learned as a kit.
 
-Sir Reginald noticed Pipkin's fascination with the lights and called him aside one evening. "I see you're studying the sky," the instructor said, his voice serious. "Good. A true knight must be observant. But remember - sometimes what we see is not what we think it is."
+One evening, as Pipkin sat hunched over his sketches in the common room, Grizelda found him, her arms folded across her chest. “You’re obsessed,” she said, though her tone was gentle. “You haven’t been sleeping. What are you looking for?”
 
-As the days passed, the sightings became more frequent. Pipkin couldn't shake the feeling that they were being watched - that something vast and ancient was stirring in the darkness beyond the stars.
+“I’m trying to understand the lights,” Pipkin replied, showing her his drawings. “They move in patterns—patterns that seem too deliberate to be random. I think they’re trying to tell us something.”
 
-"What do you think it means?" Grizelda asked one night as they watched another display of lights.
+Grizelda studied the sketches, her brow furrowing. “You might be right,” she said slowly. “But what does it mean? Why now?”
 
-Pipkin sighed, his ears drooping. "I don't know. But I have a feeling that whatever it is, it's going to change everything. And we need to be ready."
+“I don’t know,” Pipkin admitted, frustration creeping into his voice. “But I feel like we’re supposed to understand. Like these lights are a message, and we’re missing something important.”
+
+Thumper joined them, flopping down beside Pipkin with a sigh. “I wish they’d stop,” he muttered. “I haven’t slept in days. Every time I close my eyes, I see those lights. My mum says it’s an omen. My dad says it’s just swamp gas.”
+
+Pipkin managed a weak smile. “Maybe it’s both.”
+
+Sir Reginald noticed Pipkin’s fascination with the lights and called him aside one evening after drills. The old knight’s face was grave, his eyes sharp and searching. “I see you’re studying the sky,” he said, his voice low. “Good. A true knight must be observant. But remember—sometimes what we see is not what we think it is. The world is full of mysteries, Pipkin. Some are meant to be solved. Others… are meant to be endured.”
+
+As the days passed, the sightings became more frequent. The lights grew brighter, their patterns more complex. Rumors spread through the Citadel—some said it was a sign of blessing, others whispered of doom. The elders met in hushed circles, casting worried glances at the sky. Whisperwind was seen more often, gliding silently from tower to tower, his presence both reassuring and ominous.
+
+One night, Pipkin and Grizelda climbed to the highest turret, seeking a better view. The wind tugged at their fur as they watched the lights swirl above.
+
+“What do you think it means?” Grizelda asked, her voice barely audible over the breeze.
+
+Pipkin sighed, his ears drooping. “I don’t know. But I have a feeling that whatever it is, it’s going to change everything. And we need to be ready.”
+
+Grizelda placed a paw on his shoulder, steady and warm. “We will be. Whatever comes, we’ll face it together.”
+
+The two friends watched the sky in silence, hearts full of questions, as the first true sign of the Starfall shimmered above—a promise and a warning, written in light across the endless night.
