@@ -1,3 +1,5 @@
 # Novel Writing with Windsurf
 
-This project is about using Windsurf to write a novel.
+let's write a novel with windsurf lmao
+
+current word count: 16,239
