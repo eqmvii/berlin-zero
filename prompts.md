@@ -112,7 +112,7 @@ Write chapters 8, 9, 10, 11, 12, 13, 14, and 15.
 
 Model: GPT-4.1 promo
 
-# Prompt 15
+# Part 2 summaries
 
 SWE-1-lite
 
@@ -121,3 +121,31 @@ Open and read only the file part3\part3_summary.md - do not open or look at othe
 After reviewing that file, produce one chapter_summary.md file in each of the 15 folders (chapter31 - chapter45) found in part3/.
 
 Each of those 15 chapter_summary.md files should contain a short summary of the chapter of the novel - we will expand on them later. 
+
+# Now write a chapter
+
+Open and read only the file part2\chapter16\chapter_summary.md - do not open or look at other files in the project.
+
+After reviewing that file, create a chapter_content.md file in part2\chapter16.
+
+Write the full chapter for the story in that markdown file. It should be about 1,300 words. Make it exciting! 
+
+# repeat for 3
+
+Repeat exactly those steps in the following folders:
+
+part2\chapter17
+part2\chapter18
+part2\chapter19
+
+# Finally Working at sacle
+
+SWE-1-lite
+
+Repeat exactly those steps in the following 11 folders:
+
+part2\chapter20
+
+and each sequentially numbered folder through and including:
+
+part2\chapter30
