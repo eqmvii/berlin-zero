@@ -169,3 +169,9 @@ part3\chapter39
 and each sequentially numbered folder through and including:
 
 part3\chapter45
+
+# All the chapters were too short.
+
+Open only the file part2/chapter17 and no other files in this project
+
+It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
