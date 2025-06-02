@@ -89,3 +89,16 @@ Create part1/chapter1/chapter_content.md and write chapter 1. Use the chapter su
 It must be at least 1,100 words long. Make it exciting!
 
 Prompt sent to gemini 2.5 pro. It lies! 
+
+## ERIC NOTE 
+
+It's editing this file and jaming shit in random places!
+
+# Prompt 12
+
+Do it again for chatper 3
+
+Model: GPT-4.1 promo
+
+# Prompt 13
+
