@@ -108,3 +108,9 @@ Model: GPT-4.1 promo
 
 # Prompt 14
 
+Write chapters 8, 9, 10, 11, 12, 13, 14, and 15.
+
+Model: GPT-4.1 promo
+
+# Prompt 15
+
