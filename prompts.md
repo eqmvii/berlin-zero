@@ -39,3 +39,11 @@ Add this prompt to prompts.md
 ## Prompt 7
 
 Write the part 3 summary and add this and the prior prompt to prompts.md
+
+## Prompt 8
+
+Create a Dockerfile and docker-compose for this project. The dockerfile will be used to execute a python script to check wordcounts of files in this folder.
+
+This needs to be containerized because I'm on a windows machine and don't want to install or run python. Instead, the dockerfile should have python3 installed, be able to see and run scripts in this repo (probably by volume mounts in the docker-compose), etc.
+
+Model: Cascade (SWE-1)

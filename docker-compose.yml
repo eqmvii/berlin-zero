@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  wordcount:
+    build: .
+    volumes:
+      - .:/app
+    # Override the default command if needed
+    # command: ["/app/specific/directory"]
