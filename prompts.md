@@ -195,3 +195,9 @@ This prompt works, run once at a time, but requires restarting windsurf between.
 Open only the file part2\chapter23\chapter_content.md and no other files in this project
 
 It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
+
+# Finishing it off with this - restarting windsurf after each run
+
+Open only the file part3\chapter31\chapter_content.md and no other files in this project
+
+It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
