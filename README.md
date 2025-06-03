@@ -2,4 +2,4 @@
 
 let's write a novel with windsurf lmao
 
-current word count: 16,239
+50,487 words lol 
