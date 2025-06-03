@@ -187,3 +187,11 @@ Open only the file part2\chapter19\chapter_content.md and no other files in this
 It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
 
 It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
+
+# Having big issues
+
+This prompt works, run once at a time, but requires restarting windsurf between. Context window running out?
+
+Open only the file part2\chapter23\chapter_content.md and no other files in this project
+
+It is a chapter in a novel, but it is short. Please expand it to be around 1,300 words.
